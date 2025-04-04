@@ -1,0 +1,18 @@
+title: Meu Site Incrível
+email: voce@example.com
+description: >-
+  Um site feito com Jekyll usando o tema Midnight.
+# baseurl: "" # se o site estiver hospedado em um subdiretório, ex: "/meusite"
+# url: "https://seusite.github.io" # URL base do seu site
+# twitter_username: seuusuario
+# github_username: seuusuario
+
+theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+  - _pages
+
