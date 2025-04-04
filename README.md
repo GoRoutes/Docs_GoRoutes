@@ -61,11 +61,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 # 1. Desenvolvimento:
 
-**1.1 Modelos de Sistemas**
-
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
-
-**1.1.1 Serviço de Rotas**
+**Serviço de Rotas**
 
 **Gerenciamento de Rotas Sobre Transporte de Passageiros**
 
@@ -78,11 +74,10 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
 
-- **Introdução**: A empresa escolhida foi a **Sul Turismo**, uma empresa de transportes escolares e para turismo também, o dono é o `Seu Antonio`, e de funcinários temos vários, como motoristas podemos citar [Edimar, Alexander, Borba, Marcos, Edivaldo] entre outros;
-- **Situação-problema**: A empresa em si nao tem casos e situações complexas. Um cliente, contacta a empresa com o fim de saber valores, planos, portabilidade, e tudo relacionado a isso. A empresa responde e caso seja favorável à ambos, um contrato é fechado, seja por um número `X` de memes por um valor `N`. Durante o fechamento do contrato é acertado lugar onde o cliente mora, onde deseja ser levado, hórarios, e possiveis eventos que mudem isto, e possiveis outros locais para ser pego ou deixado;
-- **Conclusão**: A principal funcao é trazer acessiblidade e facilidade para ambas as partes, tanto para empresa quanto para o cliente, onde a empresa terá uma interface facil para gerenciar, criar, ver rotas e clientes, e para o cliente poder dizer à empresa quando voltará, onde desce, e etc, dados relacionados as rotas diarias.
+- A empresa escolhida foi a **Sul Turismo**, uma empresa de transportes escolares e para turismo também, o dono é o `Seu Antonio`, e de funcinários temos vários, como motoristas podemos citar [Edimar, Alexander, Borba, Marcos, Edivaldo] entre outros;
+- A empresa em si nao tem casos e situações complexas. Um cliente, contacta a empresa com o fim de saber valores, planos, portabilidade, e tudo relacionado a isso. A empresa responde e caso seja favorável à ambos, um contrato é fechado, seja por um número `X` de memes por um valor `N`. Durante o fechamento do contrato é acertado lugar onde o cliente mora, onde deseja ser levado, hórarios, e possiveis eventos que mudem isto, e possiveis outros locais para ser pego ou deixado;
+- A principal funcao é trazer acessiblidade e facilidade para ambas as partes, tanto para empresa quanto para o cliente, onde a empresa terá uma interface facil para gerenciar, criar, ver rotas e clientes, e para o cliente poder dizer à empresa quando voltará, onde desce, e etc, dados relacionados as rotas diarias.
 
 ---
 
