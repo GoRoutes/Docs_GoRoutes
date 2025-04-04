@@ -1,18 +1,14 @@
-title: Meu Site Incrível
-email: voce@example.com
+title: GoRoutes
+# email: voce@example.com
 description: >-
-  Um site feito com Jekyll usando o tema Midnight.
-# baseurl: "" # se o site estiver hospedado em um subdiretório, ex: "/meusite"
-# url: "https://seusite.github.io" # URL base do seu site
+  Um site simples e elegante usando o tema Minimal do Jekyll.
+
+theme: jekyll-theme-minimal
+
 # twitter_username: seuusuario
 # github_username: seuusuario
-
-theme: theme: jekyll-theme-minimal
+# linkedin_username: seuusuario
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-include:
-  - _pages
-
