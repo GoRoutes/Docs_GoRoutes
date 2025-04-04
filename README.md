@@ -101,5 +101,55 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 
 --- 
 
+# 4. Regras de negócio
+
+**Regras para a criação de regras de negócio**
+
+De maneira geral, as regras de negócio devem:
+- Ser **simples**, isto é,  ter apenas uma função.
+- Ser **completas**, com início, meio e fim.
+- Ser possíveis de **mensurar** e **rastrear**.
+- Estar em consonância com a **legislação**.
+- Estar **atualizadas** e sempre **revisadas**.
+- Refletir a **política** e os **valores** da organização.
+- Ser **inteligíveis** para os colaboradores e envolvidos no processo.
+
+**4.4 Exemplos de regras de negócio**
+
+- Em um controle de qualidade de granja, pode-se dizer que a cada 100 ovos impróprios para consumo, o lote será descartado.
+- Em um banco, clientes com faturamento mensal de mais de R$ 25 mil e CPF sem restrições, serão atendidos pelo gerente Premium pessoa física.
+- Para conclusão de licitações, devem ser feitos três orçamentos e o vencedor será sempre o de menor preço final.
+- Em um processo de seleção de RH, o candidato só pode ser aprovado se tiver mais de 5 anos de experiência na área, diploma de pós-graduação, espanhol fluente e pretensão salarial abaixo de R$ 8.000,00.
+- Em um processo de vendas, o vendedor só pode vender um produto se o cliente tiver mais de 18 anos, renda familiar acima de R$ 5.000,00 e não tiver restrições no CPF.
+- Em um processo de compras, o fornecedor só pode ser contratado se tiver nota fiscal, certificado de qualidade e preço abaixo de R$ 10,00 por unidade.
+- Em um processo de logística, o pedido só pode ser enviado se o cliente tiver mais de 18 anos, endereço de entrega no mesmo estado e não tiver restrições no CPF.
+
+**4.5 Como escrever regras de negócio?**
+
+- Número identificador.
+- Nome da regra.
+- Data de criação e data da última alteração para comparações e controle.
+- Nome dos Autores das versões.
+- Número da versão (1, 2 etc).
+- Dependências: insira o identificador das regras atreladas, às quais a regra em questão depende.
+- Uma descrição detalhada para compreensão da regra.
+
+**4.6 Regras de Negócio com Formatação**
+
+- **RN01 – TITULO**;
+- **RN02 – TITULO**;
+- **RN03 – TITULO**;
+- **RN04 – TITULO**;
+- **RN05 – TITULO**;
+- **RN06 – TITULO**;
+- **RN07 – TITULO**;
+- **RN08 – TITULO**;
+- **RN09 – TITULO**;
+- **RN10 – TITULO**;
+- **RN11 – TITULO**;
+- **RN12 – TITULO**;
+- **RN13 – TITULO**;
+- **RN14 – TITULO**;
+- **RN15 – TITULO**;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/>
