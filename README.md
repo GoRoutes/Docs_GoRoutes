@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=header"/> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=022840&size=35&center=true&vCenter=true&width=1000&lines=Go+Routes,+The+Best+App+Of+Manage+Routes)](https://git.io/typing-svg)
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas:
 
 - **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - **Frontend**: ![VueJs](https://img.shields.io/badge/-Vuejs-3FB17F?logo=vue&logoColor=black)
@@ -61,7 +61,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 ---
 
-# 1. Desenvolvimento
+# 1. Desenvolvimento:
 
 **1.1 Modelos de Sistemas**
 
@@ -76,7 +76,7 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 
 ---
 
-# 2. Situação Problema
+# 2. Situação Problema:
 
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
@@ -88,7 +88,7 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 
 ---
 
-# 3. Descrição da proposta
+# 3. Descrição da proposta:
 
 **Alguns pontos importantes a se destacar são:**
 
@@ -152,4 +152,4 @@ De maneira geral, as regras de negócio devem:
 - **RN14 – TITULO**: ;
 - **RN15 – TITULO**: ;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/> -->
