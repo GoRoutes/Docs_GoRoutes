@@ -85,11 +85,14 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 
 **Alguns pontos importantes a se destacar são:**
 
-- **Qual o foco de ação do software**: Os dois principais focos sao 3 funcionalidades, `1º`-Permitir os motoristas selecionar os alunos que irão fazer parte da rota e com base nisso, o sistema traça o melhor caminho baseado na distancia entre os pontos de entrega, `2º`-Permitir os clientes ver onde seu transporte está e quanto tempo demora à chegar, `3º`- Permitir com que os clientes facilmente informem se voltarão na remessa de meio dia ou da cinco horas;
-- **Os níveis de usuário do sistema**. Haverá 3 tipos de usuarios, os motoristas, que terão permissao de admins sobre o sistema, os clientes, e caso o cliente em si for de menor, haverá um cadastro a mais de seu responsavel como um login;
-- **O que poderá ser feito no software**: Admins-Gerenciar veiculos, clientes, rotas, e etc / Clientes-Comunicar com a empresa e ver dados.
+- Os dois principais focos sao 3 funcionalidades, `1º`-Permitir os motoristas selecionar os alunos que irão fazer parte da rota e com base nisso, o sistema traça o melhor caminho baseado na distancia entre os pontos de entrega, `2º`-Permitir os clientes ver onde seu transporte está e quanto tempo demora à chegar, `3º`- Permitir com que os clientes facilmente informem se voltarão na remessa de meio dia ou da cinco horas;
+- Haverá 3 tipos de usuarios, os motoristas, os clientes, e caso o cliente em si for de menor, haverá um cadastro a mais de seu responsavel como um login;
 
-`ESPECIFICAR DIFERENÇA DE USUARIOS USANDO UMA TABELA PRA ISSO`
+| **Tipo de Usuário** | **Função**                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| Motorista           | Gerenciar veículos, criar e visualizar rotas, além de monitorar o transporte em tempo real.  |
+| Cliente             | Informar horários de retorno, visualizar localização do transporte e comunicar-se com a empresa. |
+| Responsável         | Cadastrar informações do cliente menor de idade e acompanhar o transporte em tempo real.      |
 
 ---
 
