@@ -1,23 +1,3 @@
-<style>
-.wrapper{
-   width: 100%;
-   height: 100vh;
-   display: grid;
-   grid-template-columns: 20% 80%;
-}
-
-.wrapper header{
-   width: 100%;
-   height: 100%;
-}
-
-.wrapper section{
-   width: 100%;
-   height: 100%;
-}
-
-</style>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=022840&size=35&center=true&vCenter=true&width=1000&lines=Go+Routes,+The+Best+App+Of+Manage+Routes)](https://git.io/typing-svg)
 
 ---
