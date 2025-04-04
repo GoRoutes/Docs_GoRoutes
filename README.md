@@ -36,6 +36,21 @@
 
 ---
 
+# 1. Desenvolvimento
+
+**1.1 Modelos de Sistemas**
+
+**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
+
+**1.1.1 Serviço de Rotas**
+
+**Gerenciamento de Rotas Sobre Transporte de Passageiros**
+
+A empresa escolhida foi a **Sul Turismo**, uma empresa de tranporte de passageiros tanto para turismo quanto transporte escolar;
+O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreamento por parte da empresa e clientes de seu tranporte, ou o transporte de algum familiar, uma boa comunicação, avisar aos motoristas para onde quer ir, avisar os horarios que ele quer retornar ou ir, e um gerenciamento das rotas por parte dos motoristas;
+
+---
+
 ## 📜 Requisitos Funcionais (RF)
 
 - **Dashboard Administrativo**
