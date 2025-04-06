@@ -72,7 +72,7 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 
 # 2. Situação Problema:
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
+<!-- ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda") -->
 
 
 - A empresa escolhida foi a **Sul Turismo**, uma empresa de transportes escolares e para turismo também, o dono é o `Seu Antonio`, e de funcinários temos vários, como motoristas podemos citar [Edimar, Alexander, Borba, Marcos, Edivaldo] entre outros;
@@ -98,7 +98,7 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 | Responsável         | Cadastrar informações do cliente menor de idade e acompanhar o transporte em tempo real.      |
 
 ---
-
+<!-- 
 # 4. Regras de negócio
 
 **Regras para a criação de regras de negócio**
@@ -149,6 +149,6 @@ De maneira geral, as regras de negócio devem:
 - **RN12 – TITULO**: ;
 - **RN13 – TITULO**: ;
 - **RN14 – TITULO**: ;
-- **RN15 – TITULO**: ;
+- **RN15 – TITULO**: ; -->
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/> -->
