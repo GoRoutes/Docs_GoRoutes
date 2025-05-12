@@ -11,25 +11,44 @@
    <b>Anthony Loche Dos Reis</b> <br>
    <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt="Anthony"/></a>
    <br>
-   <a href="https://github.com/AnthonyLoche"><img src="https://raw.githubusercontent.com/GoRoutes/Docs_GoRoutes/refs/heads/main/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/AnthonyLoche"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/4nthony_lch/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
+</td>
+   <td align="center">
+   <b>Yohana Jahn</b> <br>
+   <a href="https://github.com/YohanaJahn"><img src="https://avatars.githubusercontent.com/u/131276303?v=4" width="80px;" alt="Pedro"/></a>
+   <br>
+   <a href="https://github.com/YohanaJahn"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 <td align="center">
    <b>Jonatas Silva Peraza</b> <br>
    <a href="https://github.com/jonatasperaza"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt="Jonatas"/></a>
    <br>
-   <a href="https://github.com/jonatasperaza"><img src="https://raw.githubusercontent.com/GoRoutes/Docs_GoRoutes/refs/heads/main/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/jonatasperaza"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/jonatasperaza/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 <td align="center">
    <b>Pedro Henrique Malaquias</b> <br>
    <a href="https://github.com/PedroHenmalaquias"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt="Pedro"/></a>
    <br>
-   <a href="https://github.com/PedroHenmalaquias"><img src="https://raw.githubusercontent.com/GoRoutes/Docs_GoRoutes/refs/heads/main/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/PedroHenmalaquias"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
+</td>
+   </td>
+   <td align="center">
+   <b>Manuela Luch</b> <br>
+   <a href="https://github.com/ManuelaLuchSilva"><img src="https://avatars.githubusercontent.com/u/131368191?v=4" width="80px;" alt="Pedro"/></a>
+   <br>
+   <a href="https://github.com/ManuelaLuchSilva"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 </tr>
 </table>
 </div>
 
 ---
+
 
 ## 🛠 Tecnologias Utilizadas:
 
@@ -97,58 +116,211 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 | Cliente             | Informar horários de retorno, visualizar localização do transporte e comunicar-se com a empresa. |
 | Responsável         | Cadastrar informações do cliente menor de idade e acompanhar o transporte em tempo real.      |
 
----
-<!-- 
-# 4. Regras de negócio
-
-**Regras para a criação de regras de negócio**
-
-De maneira geral, as regras de negócio devem:
-
-- Ser **simples**, isto é, ter apenas uma função.
-- Ser **completas**, com início, meio e fim.
-- Ser possíveis de **mensurar** e **rastrear**.
-- Estar em consonância com a **legislação**.
-- Estar **atualizadas** e sempre **revisadas**.
-- Refletir a **política** e os **valores** da organização.
-- Ser **inteligíveis** para os colaboradores e envolvidos no processo.
-
-**4.4 Exemplos de regras de negócio**
-
-- Em um controle de qualidade de granja, pode-se dizer que a cada 100 ovos impróprios para consumo, o lote será descartado.
-- Em um banco, clientes com faturamento mensal de mais de R$ 25 mil e CPF sem restrições, serão atendidos pelo gerente Premium pessoa física.
-- Para conclusão de licitações, devem ser feitos três orçamentos e o vencedor será sempre o de menor preço final.
-- Em um processo de seleção de RH, o candidato só pode ser aprovado se tiver mais de 5 anos de experiência na área, diploma de pós-graduação, espanhol fluente e pretensão salarial abaixo de R$ 8.000,00.
-- Em um processo de vendas, o vendedor só pode vender um produto se o cliente tiver mais de 18 anos, renda familiar acima de R$ 5.000,00 e não tiver restrições no CPF.
-- Em um processo de compras, o fornecedor só pode ser contratado se tiver nota fiscal, certificado de qualidade e preço abaixo de R$ 10,00 por unidade.
-- Em um processo de logística, o pedido só pode ser enviado se o cliente tiver mais de 18 anos, endereço de entrega no mesmo estado e não tiver restrições no CPF.
-
-**4.5 Como escrever regras de negócio?**
-
-- Número identificador.
-- Nome da regra.
-- Data de criação e data da última alteração para comparações e controle.
-- Nome dos Autores das versões.
-- Número da versão (1, 2 etc).
-- Dependências: insira o identificador das regras atreladas, às quais a regra em questão depende.
-- Uma descrição detalhada para compreensão da regra.
-
-**4.6 Regras de Negócio com Formatação**
-
-- **RN01 – TITULO**: ;
-- **RN02 – TITULO**: ;
-- **RN03 – TITULO**: ;
-- **RN04 – TITULO**: ;
-- **RN05 – TITULO**: ;
-- **RN06 – TITULO**: ;
-- **RN07 – TITULO**: ;
-- **RN08 – TITULO**: ;
-- **RN09 – TITULO**: ;
-- **RN10 – TITULO**: ;
-- **RN11 – TITULO**: ;
-- **RN12 – TITULO**: ;
-- **RN13 – TITULO**: ;
-- **RN14 – TITULO**: ;
-- **RN15 – TITULO**: ; -->
-
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/> -->
+
+# 4. Regras de Negócio
+
+## RN01 – Acesso Centralizado
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** Nenhuma
+
+**Descrição:**  
+O sistema deverá centralizar o atendimento e a gestão de diferentes perfis de usuários: administradores, motoristas, alunos e responsáveis. Cada tipo de usuário terá acesso somente às funcionalidades autorizadas conforme seu nível de permissão.
+
+### RN01.1 – Controle de Acesso
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** RN01
+
+**Descrição:**  
+O sistema deverá garantir que apenas usuários autenticados e autorizados possam acessar funcionalidades específicas, respeitando os níveis de permissão definidos por perfil.
+
+## RN02 – Automatização de Rotas
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** Nenhuma
+
+**Descrição:**  
+O sistema deverá automatizar os processos logísticos de transporte escolar, incluindo a recomendação e o ajuste inteligente de rotas.
+
+### RN02.1 – Cálculo de Rota Otimizada
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** RN02
+
+**Descrição:**  
+O sistema deverá calcular automaticamente a melhor rota com base nos endereços dos alunos, priorizando eficiência de tempo, segurança e economia de combustível.
+
+## RN03 – Segurança e Conformidade
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** Nenhuma
+
+**Descrição:**  
+O sistema deverá assegurar a proteção das informações dos usuários e o cumprimento das normas de segurança e integridade definidas para o transporte.
+
+### RN03.1 – Restrição de Edição
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** RN03
+
+**Descrição:**  
+Somente usuários com perfil de administrador poderão editar dados considerados críticos, como alterações em rotas, veículos e cadastro de usuários.
+
+## RN04 – Expansão e Auditoria
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** Nenhuma
+
+**Descrição:**  
+O sistema deverá estar preparado para expansão contínua, suportando aumento de usuários, rotas e registros. Além disso, deverá possuir mecanismos de auditoria detalhada das operações realizadas.
+
+### RN04.1 – Registro de Logs
+- **Data de criação:** 03/04/2025
+- **Última alteração:** 05/04/2025
+- **Autor(es):** Pedro Henrique, Jonatas Peraza
+- **Versão:** 1.0
+- **Dependências:** RN04
+
+**Descrição:**  
+O sistema deverá manter um log completo e seguro de todas as ações realizadas por qualquer usuário, incluindo edições, exclusões, autenticações e movimentações, para fins de rastreamento e auditoria.
+
+# 5. Requisitos Funcionais
+
+## Entradas
+
+### R.F. 01 - Gerenciamento de Alunos
+- **Descrição:** Permite o cadastro, edição, exclusão e visualização de alunos, incluindo dados pessoais e responsáveis.
+- **Dados necessários:** nome, data de nascimento, CPF, foto, endereço, endereço secundário, nomes dos responsáveis, telefone, email.
+- **Usuários:** administradores.
+
+### R.F. 02 - Gerenciamento de Rotas
+- **Descrição:** Permite o cadastro, edição, exclusão e visualização de rotas, com origem, destino, paradas e horários.
+- **Dados necessários:** pontos de partida e chegada, paradas intermediárias, horários previstos.
+- **Usuários:** administradores.
+
+### R.F. 03 - Gerenciamento de Motoristas
+- **Descrição:** Permite o cadastro, edição, exclusão e visualização de motoristas com seus dados pessoais e histórico de rotas.
+- **Dados necessários:** nome, foto, CPF, CNH, telefone, email, rotas atribuídas.
+- **Usuários:** administradores.
+
+### R.F. 04 - Gerenciamento de Veículos
+- **Descrição:** Permite o cadastro, edição, exclusão e visualização de veículos.
+- **Dados necessários:** placa, modelo, capacidade de passageiros, status.
+- **Usuários:** administradores.
+
+### R.F. 05 - Gerenciamento de Responsáveis
+- **Descrição:** Permite o cadastro, edição, exclusão e vinculação de responsáveis a alunos, com definição de permissões.
+- **Dados necessários:** nome, foto, CPF, telefone, email, aluno vinculado, permissões de acesso.
+- **Usuários:** administradores.
+
+## Processos
+
+### R.F. 06 - Registro de Logs
+- **Descrição:** Registra logs de ações dos usuários como edições, exclusões e acessos.
+- **Dados necessários:** usuário, data/hora, tipo de ação, dados afetados.
+- **Usuários:** todos os níveis (apenas administradores têm acesso aos logs).
+
+### R.F. 07 - Recomendação Automática de Rota
+- **Descrição:** Recomenda automaticamente a melhor rota ao cadastrar um novo aluno.
+- **Dados necessários:** endereço do aluno, rotas existentes, geolocalização.
+- **Usuários:** administradores.
+
+### R.F. 08 - Recalcular Rotas Automaticamente
+- **Descrição:** Recalcula rotas automaticamente quando houver atualizações relevantes. (Opcional)
+- **Dados necessários:** alterações no cadastro de alunos, veículos ou rotas.
+- **Usuários:** administradores.
+
+### R.F. 09 - Rotas de Backup
+- **Descrição:** Permite definir rotas de backup para uso em situações emergenciais.
+- **Dados necessários:** rotas alternativas, condições de ativação.
+- **Usuários:** administradores.
+
+### R.F. 10 - Rastreamento por GPS
+- **Descrição:** Permite rastreamento em tempo real dos veículos via GPS. (Opcional)
+- **Dados necessários:** localização atual, identificação do veículo.
+- **Usuários:** administradores, responsáveis, alunos.
+
+### R.F. 11 - Previsão de Chegada (ETA)
+- **Descrição:** Exibe previsão de chegada dos veículos para alunos e responsáveis.
+- **Dados necessários:** localização atual, velocidade média, destino.
+- **Usuários:** administradores, responsáveis, alunos.
+
+### R.F. 12 - Registro de Presença e Retorno Antecipado
+- **Descrição:** Permite registrar presença dos alunos e solicitar retorno antecipado.
+- **Dados necessários:** presença, hora de embarque/desembarque, motivo do retorno.
+- **Usuários:** motoristas (registro), responsáveis e alunos (solicitação).
+
+### R.F. 13 - Desembarque Alternativo
+- **Descrição:** Permite solicitação de desembarque em local alternativo com autorização do responsável.
+- **Dados necessários:** localização alternativa, responsável autorizado, horário.
+- **Usuários:** responsáveis, administradores.
+
+## Saídas
+
+### R.F. 14 - Notificações Automatizadas
+- **Descrição:** Envia notificações automáticas para responsáveis sobre mudanças de rota, atrasos ou emergências.
+- **Dados necessários:** tipo de evento, mensagem personalizada, horário.
+- **Usuários:** responsáveis.
+
+### R.F. 15 - Histórico de Rotas e Eventos
+- **Descrição:** Mantém registro completo das rotas realizadas e eventos ocorridos.
+- **Dados necessários:** datas, horários, eventos registrados, presença.
+- **Usuários:** administradores.
+
+### R.F. 16 - Identificação do Veículo
+- **Descrição:** Exibe foto e número do veículo para facilitar a identificação.
+- **Dados necessários:** foto do veículo, número identificador, placa, rota vinculada.
+- **Usuários:** responsáveis, alunos.
+
+### R.F. 17 - Restrição de Edição por Motoristas
+- **Descrição:** Impede motoristas de editarem informações de rotas, alunos ou veículos.
+- **Dados necessários:** permissões de acesso.
+- **Usuários:** motoristas.
+
+# 6. Requisitos Não Funcionais
+
+### R.N.F. 01 - Armazenamento de histórico
+O sistema deverá armazenar com segurança o histórico completo de rotas e eventos para fins de auditoria.
+
+### R.N.F. 02 - Redundância de dados
+O sistema deverá contar com mecanismos de redundância para garantir a disponibilidade e a integridade dos dados em caso de falhas.
+
+### R.N.F. 03 - Interface do usuário
+A interface deverá ser amigável, responsiva e intuitiva, para todos os perfis de usuários.
+
+### R.N.F. 04 - Mapa interativo
+Deve haver um mapa interativo em tempo real com rotas, paradas e localização dos veículos.
+
+### R.N.F. 05 - Integração com geolocalização
+Integração com APIs de geolocalização como Google Maps e Mapbox para rastreamento e cálculo de rotas.
+
+### R.N.F. 06 - Múltiplos canais de notificação
+Notificações devem poder ser enviadas via app, e-mail e SMS, de forma automatizada.
+
+### R.N.F. 07 - Banco de dados
+O banco de dados será relacional, preferencialmente PostgreSQL ou MySQL, para garantir desempenho e consistência.
+
+### R.N.F. 08 - Atualização em tempo real
+As atualizações do sistema devem ocorrer em tempo real, refletindo imediatamente para os usuários.
+
+### R.N.F. 09 - Escalabilidade
+O sistema deverá ser escalável para suportar crescimento de usuários e dados.
+
+### R.N.F. 10 - Aplicativo móvel
+Deverá existir um app móvel nativo ou PWA compatível com Android e iOS.
