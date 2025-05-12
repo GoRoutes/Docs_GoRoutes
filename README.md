@@ -11,28 +11,28 @@
    <b>Anthony Loche Dos Reis</b> <br>
    <a href="https://github.com/AnthonyLoche"><img src="https://avatars.githubusercontent.com/u/126203565?v=4" width="80px;" alt="Anthony"/></a>
    <br>
-   <a href="https://github.com/AnthonyLoche"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/AnthonyLoche"><img src="./images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/4nthony_lch/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
    <td align="center">
    <b>Yohana Jahn</b> <br>
    <a href="https://github.com/YohanaJahn"><img src="https://avatars.githubusercontent.com/u/131276303?v=4" width="80px;" alt="Pedro"/></a>
    <br>
-   <a href="https://github.com/YohanaJahn"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/YohanaJahn"><img src="./images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 <td align="center">
    <b>Jonatas Silva Peraza</b> <br>
    <a href="https://github.com/jonatasperaza"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt="Jonatas"/></a>
    <br>
-   <a href="https://github.com/jonatasperaza"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/jonatasperaza"><img src="./images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/jonatasperaza/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 <td align="center">
    <b>Pedro Henrique Malaquias</b> <br>
    <a href="https://github.com/PedroHenmalaquias"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt="Pedro"/></a>
    <br>
-   <a href="https://github.com/PedroHenmalaquias"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/PedroHenmalaquias"><img src="./images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
    </td>
@@ -40,7 +40,7 @@
    <b>Manuela Luch</b> <br>
    <a href="https://github.com/ManuelaLuchSilva"><img src="https://avatars.githubusercontent.com/u/131368191?v=4" width="80px;" alt="Pedro"/></a>
    <br>
-   <a href="https://github.com/ManuelaLuchSilva"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://github.com/ManuelaLuchSilva"><img src="./images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 </tr>
@@ -118,7 +118,11 @@ O aplicativo em si foca em algumas coisa, como pontos podemos citar, o rastreame
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/> -->
 
-# 4. Regras de Negócio
+# 4. Modelagem de Dados
+
+<img src="./images/modelagem_go.jpeg" width="100%" alt="Modelagem"/>
+
+# 5. Regras de Negócio
 
 ## RN01 – Acesso Centralizado
 - **Data de criação:** 03/04/2025
